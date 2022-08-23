@@ -1,6 +1,13 @@
-# 基于SSM的选课管理系统（教务管理系统）5
+# 基于SSM的选课管理系统（教务管理系统）
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**选课5**，
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSM的教务管理系统拥有三种角色：学生、教师、管理员
 
 学生：选课、查看已选课程、查看成绩
@@ -9,35 +16,66 @@
 
 管理员：课程管理、学生管理、教师管理、密码修改等
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：SSM（Spring、SpringMVC、Mybatis）
+
+前端框架：Bootstrap、jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8，其它版本理论上可以
+- IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
+- tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
+- 数据库版本：MySql 5.x、8.x
+- maven版本：无限制
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011015512.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.2管理员 模块
 
-#### 参与贡献
+![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011015187.jpg)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011015771.jpg)
+
+![管理员-添加学生](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011015149.jpg)
+
+![管理员-课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011015999.jpg)
+
+管理员可以增删改查课程、学生、教师信息
+
+### 4.3 教师模块
+
+![教师-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011016972.jpg)
+
+![教师-成绩管理1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011016841.jpg)
+
+### 4.4 学生模块
+
+![学生-选课](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011016044.jpg)
+
+![学生-已选课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011016791.jpg)
+
+![学生-已修课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011016001.jpg)
+
+![学生-成绩管理3](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011016902.jpg)
+
+### 4.5 文档目录
+
+![目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E7%9B%AE%E5%BD%95.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ： “**选课5**”   
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
